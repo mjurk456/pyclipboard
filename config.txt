@@ -1,0 +1,1 @@
+{"maxNrOfRecords": 7, "startMinimized": 2}
